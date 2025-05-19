@@ -1,4 +1,3 @@
-
 # 👋 Hi there, I'm Blessing Longe!
 
 Welcome to my GitHub! I’m a **Data Analyst and Scientific Rresearcher** with a growing freelance brand — **Blevic P & T** — focused on **data analytics and research support**.
@@ -10,7 +9,7 @@ Welcome to my GitHub! I’m a **Data Analyst and Scientific Rresearcher** with a
 I help individuals, businesses, and researchers uncover insights from data through:
 
 - 📊 **Exploratory Data and Business Analysis** (Excel, SQL, Power BI, Python)
-- 📊 **Data Visualization** (Powe
+- 📊 **Data Visualization** (ggplot, matplotlib, seaborn, Excel)
 - 📈 **Statistical Analysis** (SPSS and R for ANOVA, t-tests, regression, chi-square, etc.)
 - 📚 **Academic & Scientific Data Interpretation**
 - 📦 **Data Cleaning, Reporting & Dashboard Design**
@@ -39,7 +38,7 @@ I help individuals, businesses, and researchers uncover insights from data throu
 ## 🌱 Currently Learning
 
 - Power Query & Macros for Excel automation  
-- Python for data analysis (pandas, matplotlib)  
+- R for Data Analysis 
 - Git & GitHub for project collaboration and version control  
 
 ---
@@ -51,8 +50,8 @@ I'm open to **freelance opportunities**, **data collaborations**, and **academic
 📧 Email: blessinglonge2025@gmail.com  
 📱 WhatsApp: +2348132691429  
 🔗 LinkedIn: https://www.linkedin.com/in/blessing-longe
-💼 Upwork: [upwork.com/freelancers/blevic](https://www.upwork.com/freelancers/blevic) *(update if needed)*
+💼 Upwork: 
 
 ---
 
-Thanks for stopping by — feel free to check out my repositories below!
+Thanks for stopping by; feel free to check out my repositories below!
