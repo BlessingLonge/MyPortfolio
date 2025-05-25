@@ -50,8 +50,6 @@ I'm open to **freelance opportunities**, **data collaborations**, and **academic
 📧 Email: blessinglonge2025@gmail.com  
 📱 WhatsApp: +2348132691429  
 🔗 LinkedIn: https://www.linkedin.com/in/blessing-longe
-💼 Upwork: 
-
 ---
 
 Thanks for stopping by; feel free to check out my repositories below!
