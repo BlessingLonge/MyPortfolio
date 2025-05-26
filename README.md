@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Blessing Longe!
 
-Welcome to my GitHub! I’m a **Data Analyst and Scientific Rresearcher** with a growing freelance brand — **Blevic P & T** — focused on **data analytics and research support**.
+Welcome to my GitHub! I’m a **Data Analyst and Scientific Researcher** with a growing freelance brand focused on **data analytics and research support**.
 
 ---
 
