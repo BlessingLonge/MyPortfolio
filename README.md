@@ -38,7 +38,8 @@ I help individuals, businesses, and researchers uncover insights from data throu
 ## 🌱 Currently Learning
 
 - Power Query & Macros for Excel automation  
-- R for Data Analysis 
+- R for Data Analysis
+- DAX on Power BI
 - Git & GitHub for project collaboration and version control  
 
 ---
@@ -52,4 +53,3 @@ I'm open to **freelance opportunities**, **data collaborations**, and **academic
 🔗 LinkedIn: https://www.linkedin.com/in/blessing-longe
 ---
 
-Thanks for stopping by; feel free to check out my repositories below!
